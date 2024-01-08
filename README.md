@@ -1,6 +1,7 @@
 # BikeShift
 
 Creator: @carbon_gtv
+# donate here: https://www.paypal.com/donate/?hosted_button_id=97RF22P434J84
 Sequential Shift with a servo motor and an arduino uno.
 here you can see a video:
 https://www.instagram.com/reel/CwsSbrLoQdj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
